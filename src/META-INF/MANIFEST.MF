@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: scala-actors-migration.jar scala-actors.jar scala-library.
+ jar scala-reflect.jar scala-swing.jar mysql-connector-java-5.1.6.jar 
+ spark-assembly-1.6.0-hadoop2.6.0.jar spark-examples-1.6.0-hadoop2.6.0
+ .jar
+Main-Class: com.xj.ml.statistics.ll
+

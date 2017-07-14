@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="SparkMllibDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkMllibDemo_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SparkMllibDemo.jar">
+        <element id="module-output" name="SparkMllibDemo" />
+      </element>
+      <element id="library" level="application" name="scala-sdk-2.10.4" />
+      <element id="file-copy" path="$PROJECT_DIR$/../SparkScalaDemo/libs/mysql-connector-java-5.1.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../SparkScalaDemo/libs/spark-assembly-1.6.0-hadoop2.6.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../SparkScalaDemo/libs/spark-examples-1.6.0-hadoop2.6.0.jar" />
+    </root>
+  </artifact>
+</component>
